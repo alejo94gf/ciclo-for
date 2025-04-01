@@ -22,6 +22,13 @@ frutas = ["manzana", "banana", "cereza"]
 for fruta in frutas:
     print(fruta)
 
+# Notas "Explicacion codigo"
+
+for es la estructura de bucle que nos permite recorrer la lista.
+
+fruta es una variable temporal que toma el valor de cada elemento en la lista en cada iteración.
+
+in frutas indica que queremos iterar sobre cada elemento dentro de la lista frutas.
 
 
 
